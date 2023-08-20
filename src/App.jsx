@@ -92,7 +92,7 @@ function App() {
           
           <h2 >Edit Todo</h2>
           
-          <label htmlFor="editTodo" className="me-2"><h5>Edit Items: </h5></label>
+          <label htmlFor="editTodo" className="me-2"><h5>Edit Item: </h5></label>
           
           <input
           className="mb-2 myinput"
